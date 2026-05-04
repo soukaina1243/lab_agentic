@@ -21,8 +21,7 @@ Built with LangChain, MCP, Ollama and Streamlit.
 ## Setup
 
 ### 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/travel_agent.git
-cd travel_agent
+git clone https://github.com/soukaina1243/lab_agentic.git
 
 ### 2. Create virtual environment
 py -3.10 -m venv venv
